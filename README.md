@@ -74,4 +74,5 @@ Invoice amounts are not treated as final net revenue because refund accounting a
 A local PostgreSQL setup may be required to reproduce the database analysis.
 
 
+<img width="1293" height="722" alt="SaaS Subscription Analytics-dashboard" src="https://github.com/user-attachments/assets/e2aff140-039f-4890-bf0e-26d02e21c61b" />
 
